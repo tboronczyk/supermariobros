@@ -1,9 +1,16 @@
 Super Mario Bros. (NES)
 Traduko al Esperanto v1.0.1 (xx/xx/2022)
-http://github.com/tboronczyk/supermariobros
 
-PRISKRIBO
-----------
+ENKONDUKO
+---------
+Ĉi tiu projekto estas traduko al Esperanto de Super Mario
+Bros, videoludo por la Nintendo Entertainment Sistem. La
+retpaĝo por la projekto estas
+
+    http://github.com/tboronczyk/supermariobros
+
+PRISKRIBO DE LUDO
+-----------------
 Iam, invadis tribo de testudoj, famaj pro sia nigra magio,
 la reĝlandon de paca funga popolo. La kvietaj kaj pacemaj
 fungoj estis ĉiuj transformitaj en ŝtonojn, brikojn, kaj
@@ -22,9 +29,13 @@ kaj savi la fungan reĝlandon!
 
 INFORMOJ PRI ROM
 ----------------
-Super\ Mario\ Bros.\ (World).nes
-MD5: 811b027eaf99c2def7b933c5208636de
-CRC32: 3337ec46
+Vi devas posedi fizikan kopion de la kartoĉo de Super Mario
+Bros. Alŝulti ROM-on de iu videoludo, kiun vi ne posedas,
+povus esti pirateco.
+
+    Super\ Mario\ Bros.\ (World).nes
+    MD5: 811b027eaf99c2def7b933c5208636de
+    CRC32: 3337ec46
 
 HISTORIO
 --------

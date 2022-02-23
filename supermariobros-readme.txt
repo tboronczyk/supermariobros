@@ -3,8 +3,8 @@ Traduko al Esperanto v1.0.1 (xx/xx/2022)
 
 ENKONDUKO
 ---------
-Ĉi tiu projekto estas traduko al Esperanto de Super Mario
-Bros, videoludo por la Nintendo Entertainment Sistem. La
+Ĉi tiu projekto estas Esperanta traduko de Super Mario
+Bros, videoludo por la Nintendo Entertainment System. La
 retpaĝo por la projekto estas
 
     http://github.com/tboronczyk/supermariobros
@@ -30,10 +30,10 @@ kaj savi la fungan reĝlandon!
 INFORMOJ PRI ROM
 ----------------
 Vi devas posedi fizikan kopion de la kartoĉo de Super Mario
-Bros. Alŝulti ROM-on de iu videoludo, kiun vi ne posedas,
-povus esti pirateco.
+Bros. Alŝulti ROM-on de videoludo, kiun vi ne posedas,
+povas esti pirateco.
 
-    Super\ Mario\ Bros.\ (World).nes
+    Super Mario Bros. (World).nes
     MD5: 811b027eaf99c2def7b933c5208636de
     CRC32: 3337ec46
 

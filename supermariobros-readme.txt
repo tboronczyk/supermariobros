@@ -1,5 +1,5 @@
 Super Mario Bros. (NES)
-Traduko al Esperanto v1.0.1 (xx/xx/2022)
+Traduko al Esperanto v1.0 (26/01/2022)
 
 ENKONDUKO
 ---------
@@ -39,9 +39,6 @@ povas esti pirateco.
 
 HISTORIO
 --------
-v1.0.1  xx/xx/2022
- - Aldoni grafikaĵon
-
 v1.0    26/01/2022
  - Unua eldono
 

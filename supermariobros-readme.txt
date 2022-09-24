@@ -1,5 +1,5 @@
 Super Mario Bros. (NES)
-Traduko al Esperanto v1.0 (26/01/2022)
+Traduko al Esperanto v1.1 (23/09/2022)
 
 ENKONDUKO
 ---------
@@ -41,6 +41,10 @@ HISTORIO
 --------
 v1.0    26/01/2022
  - Unua eldono
+
+v1.1    23/09/2022
+ - Uzas frazon "bonvenon al varp-zono"
+ - Ĝustigis eraron en skatol-arto
 
 KONTRIBUANTOJ
 -------------
